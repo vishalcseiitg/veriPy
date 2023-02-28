@@ -12,5 +12,5 @@ The scope of the library could be defined as follows:
 
 6. Documentation: The library should be well-documented, with clear explanations of each function and method, examples of usage, and tutorials for getting started.
 
-7. Cross-platform compatibility: The library should be compatible with multiple operating systems and Python versions to maximize its usefulness to the community.
+7. Cross-platform compatibility: The library should be compatible with multiple operating systems and Python versions to maximize its usefulness to the community
 
